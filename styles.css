@@ -1,0 +1,58 @@
+.images{
+    display: flex;
+   justify-content: flex-start;
+}
+
+.album1 {
+        border: 6px  solid lightgrey;
+}
+
+.album2 {
+        border: 6px  solid black;
+
+}
+
+.album3 {
+        border: 6px  solid lightgrey;
+
+}
+ h1{
+         font-family: 'Itim', cursive;
+text-align: center;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/originals/94/2c/c3/942cc395f72b96fff21f72d3df6ef575.jpg");
+}
+
+h3{
+    color:white;
+             font-family: 'Redressed', cursive;
+
+}
+
+p{
+    color:white;
+}
+
+li{
+    color: white;
+    font-family: 'Xanh Mono', monospace;
+
+}
+
+button{
+    color: purple;
+}
+
+
+
+
+
+
+
+/* Don't edit this*/
+img{
+    width: 150px; 
+    display: block;
+}
